@@ -1,0 +1,27 @@
+# Maven
+target/
+.mvn/
+mvnw
+mvnw.cmd
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Documentación
+*.md
+
+# Logs
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
